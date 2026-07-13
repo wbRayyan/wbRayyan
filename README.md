@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Rayan Bhatti! 👋
 
-<!--
-**wbRayyan/wbRayyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **Software Engineering student** passionate about building robust web ecosystems and writing clean, scalable code. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Arsenal
+* **Backend:** Laravel (PHP), Node.js, Express.js, .NET Framework
+* **Frontend:** React, JavaScript, HTML5, CSS3
+* **Databases & ORMs:** MySQL, Prisma ORM
+* **Version Control:** Git, GitHub
+
+---
+
+### 💻 Key Projects
+* **Alkhidmat 360:** A comprehensive full-stack charity and donor management platform built as a Final Year Project.
+* **Sundri Enterprise Calculator:** A robust C# console-based arithmetic engine supporting sequential dynamic operations and parsing precision.
+
+---
+
+### 🎯 Languages
+* English (Professional)
+* Urdu (Native)
+* Mandarin Chinese (Foundational Learning)
+
+---
+
+### 📫 Connect with Me
+* 🌐 **GitHub:** [wbRayyan](https://github.com/wbRayyan)
