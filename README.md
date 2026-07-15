@@ -16,16 +16,16 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:rayanbhattiahmed@gmail.com" target="_blank">
+  <a href="mailto:i.rayanbhatti@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" width="45" height="45" alt="Email" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/wbRayyan" target="_blank">
+  <a href="https://instagram.com/wbrayyan" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="45" height="45" alt="Instagram" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rayan-bhatti-se" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/923000000000" target="_blank">
+  <a href="https://wa.me/923260095968" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="45" height="45" alt="WhatsApp" />
   </a>
 </p>
@@ -36,7 +36,7 @@
 
 ```yaml
 name: Rayan Bhatti
-role: Software Engineering Student (BS-SE)
+role: Software Engineering Student
 university: COMSATS University Islamabad
 location: Pakistan
 
