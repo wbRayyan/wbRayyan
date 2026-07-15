@@ -19,7 +19,7 @@
   <a href="mailto:i.rayanbhatti@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" width="45" height="45" alt="Email" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/wbrayyan" target="_blank">
+  <a href="https://instagram.com/wb_rayyan" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="45" height="45" alt="Instagram" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rayan-bhatti-se" target="_blank">
