@@ -22,7 +22,7 @@
   <a href="https://instagram.com/wb_rayyan" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="45" height="45" alt="Instagram" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/Rayan Bhatti" target="_blank">
+  <a href="https://www.linkedin.com/rayan-bhatti-b07a4b289/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/923260095968" target="_blank">
