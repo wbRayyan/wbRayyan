@@ -1,48 +1,26 @@
 <h1 align="center">Hi There! I'm Rayan Bhatti 👋</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5Y3pkaWR4eW05ejZ5MWJ0MXp2bmQ3dGZhdTdtOWVndzBocjZweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3PfvGTJVPQ/giphy.gif" width="100%" alt="Developer Pixel Art Room" />
+  <b>Software Engineering Student | Backend & Systems Developer</b><br>
+  <i>"Architecting resilient backends, scalable systems, and high-performance logic."</i>
 </p>
 
 <p align="center">
-  🚀 <b>Passionate Software Engineering Student | Systems & Full-Stack Developer</b> 🚀
-</p>
-<p align="center">
-  <i>"Architecting scalable web ecosystems, designing databases, and compiling precision logic."</i>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:i.rayanbhatti@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" width="45" height="45" alt="Email" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/wb_rayyan" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="45" height="45" alt="Instagram" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rayan-bhatti-b07a4b289/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/923260095968" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="45" height="45" alt="WhatsApp" />
-  </a>
+  <a href="mailto:i.rayanbhatti54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-## 📊 About Me
+### 🚀 About Me
 
 ```yaml
 name: Rayan Bhatti
-role: Software Engineering Student
-university: COMSATS University Islamabad
-location: Pakistan
-
-current_focus:
-  - Full-Stack Platforms (Laravel & React)
-  - Core Backend Systems (.NET & C#)
-  - Modular Database Architectures
-
+role: Software Engineering Undergrad
+education: COMSATS University Islamabad
+focus_areas:
+  - Systems Programming & Logic (Modern C++)
+  - High-Performance Backend Architectures (.NET, C#, Laravel)
+  - Full-Stack Platforms & REST APIs (React, Node.js, Express)
+  - Relational Database Design & Query Optimization (MySQL, SQL Server)
 motto: "Compile with purpose, execute with precision."
