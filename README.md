@@ -41,10 +41,13 @@ You could also **FOLLOW** me here on GitHub! 🫡
 
 ---
 
-### 🐱 Contribution Activity
+### ⚡ GitHub Activity & Streaks
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wbRayyan/wbRayyan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wbRayyan/wbRayyan/output/github-contribution-grid-snake.svg">
-  <img alt="Rayan's Contribution Graph" src="https://isometric-contributions.vercel.app/api?username=wbRayyan&theme=classic&format=svg">
-</picture>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wbRayyan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wbRayyan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wbRayyan&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
