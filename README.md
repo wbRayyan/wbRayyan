@@ -1,12 +1,11 @@
-<h1 align="center">Hi There! I'm Rayan Bhatti 👋</h1>
-<p align="center">
-  <b>Software Engineering Student | Systems & Full-Stack Developer</b><br>
-  <i>"Architecting resilient backends, scalable systems, and high-performance logic."</i>
-</p>
+# Hi There! I'm Rayan Bhatti 👋
+
+### 🚀 Software Engineering Student | Systems & Full-Stack Developer
+> *"Architecting resilient backends, scalable systems, and high-performance logic."*
 
 ---
 
-### 🚀 About Me
+### 👤 About Me
 
 ```yaml
 name: Rayan Bhatti
