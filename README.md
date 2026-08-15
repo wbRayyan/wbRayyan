@@ -7,7 +7,7 @@
 
 ### 👤 About Me
 
-- 🎓 **Education:** Software Engineering Undergrad @ COMSATS University Islamabad
+- 🎓 **Education:** Software Engineering (Graduate) @ COMSATS University Islamabad
 - ⚙️ **Core Focus:** Systems Programming & High-Performance Logic (Modern C++)
 - 🌐 **Backend & Web:** .NET Core, C#, Laravel, React, Node.js, Express
 - 🗄️ **Databases:** MySQL, SQL Server
