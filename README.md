@@ -46,7 +46,7 @@ You could also **FOLLOW** me here on GitHub! 🫡
 ### ⚡ GitHub Activity & Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wbRayyan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wbRayyan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
