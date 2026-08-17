@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.svg" alt="Rayan Bhatti Banner" width="100%" />
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rayan-bhatti-b07a4b289/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
