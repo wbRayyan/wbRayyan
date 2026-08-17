@@ -1,7 +1,14 @@
-# Hi There! I'm Rayan Bhatti 👋
+<p align="center">
+  <img src="banner.svg" alt="Rayan Bhatti Banner" width="100%" />
+</p>
 
-### 🚀 Software Engineering Student | Systems & Full-Stack Developer
-> *"Architecting resilient backends, scalable systems, and high-performance logic."*
+<p align="center">
+  <a href="https://www.linkedin.com/in/rayan-bhatti-b07a4b289/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/wb_rayyan/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:i.rayanbhatti54@gmail.com"><img src="https://img.shields.io/badge/EMAIL-181818?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
 
 ---
 
