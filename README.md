@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Rayan Bhatti Banner" width="100%" />
+  <img src="banner.svg?v=2" alt="Rayan Bhatti Banner" width="100%" />
 </p>
 
 <p align="center">
