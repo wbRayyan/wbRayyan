@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="100%" height="100%">
+  <defs>
+    <!-- Vintage Dot Pattern -->
+    <pattern id="dotPattern" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ded5c4" />
+    </pattern>
+  </defs>
+
+  <!-- Hard Drop Shadow for Box -->
+  <rect x="26" y="26" width="850" height="270" fill="#181818" rx="2" />
+  
+  <!-- Main Paper Box -->
+  <rect x="18" y="18" width="850" height="270" fill="#F4EBD9" stroke="#181818" stroke-width="4" rx="2" />
+  <rect x="18" y="18" width="850" height="270" fill="url(#dotPattern)" rx="2" />
+
+  <!-- Top Metadata Line -->
+  <text x="443" y="60" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="bold" fill="#6e6659" letter-spacing="3">
+    ISSUE #1  ·  ISLAMABAD, PAKISTAN  ·  EST. 2026
+  </text>
+
+  <!-- 3D Retro Title: RAYAN BHATTI -->
+  <g font-family="'Impact', 'Arial Black', sans-serif" font-size="62" font-style="italic" letter-spacing="4" text-anchor="middle">
+    <!-- Black Hard Shadow Layers -->
+    <text x="449" y="139" fill="#181818">RAYAN BHATTI</text>
+    <text x="447" y="137" fill="#181818">RAYAN BHATTI</text>
+    <text x="445" y="135" fill="#E25241">RAYAN BHATTI</text>
+    <!-- Front Text -->
+    <text x="443" y="133" fill="#181818">RAYAN BHATTI</text>
+  </g>
+
+  <!-- Middle Red Tag/Banner Shadow -->
+  <rect x="154" y="166" width="580" height="42" fill="#181818" />
+  <!-- Middle Red Tag/Banner -->
+  <rect x="150" y="162" width="580" height="42" fill="#E25241" stroke="#181818" stroke-width="3" />
+  <text x="440" y="189" text-anchor="middle" font-family="'Impact', 'Arial Black', sans-serif" font-size="18" fill="#FFFFFF" letter-spacing="3">
+    COMPILING LOGIC · SCALING BACKENDS · ZERO OVERHEAD
+  </text>
+
+  <!-- Subtitle Text -->
+  <text x="443" y="238" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="600" fill="#333333" letter-spacing="0.5">
+    Modern C++ Systems · .NET Core &amp; Laravel Backend · React on the Web
+  </text>
+  
+  <!-- Email / Link -->
+  <text x="443" y="262" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="bold" fill="#0077B5">
+    i.rayanbhatti54@gmail.com
+  </text>
+</svg>
