@@ -55,5 +55,5 @@ You could also **FOLLOW** me here on GitHub! 🫡
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wbrayyan&bg_color=F4EBD9&color=1A1A1A&line=D95338&point=1A1A1A&area=true&area_color=D9533822&hide_border=false&border_color=1A1A1A" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wbRayyan&bg_color=F4EBD9&color=1A1A1A&line=D95338&point=1A1A1A&area=true&area_color=D9533822&hide_border=false&border_color=1A1A1A&v=1" alt="Contribution Graph" width="100%" />
 </p>
