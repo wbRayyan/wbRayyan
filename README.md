@@ -51,7 +51,7 @@ You could also **FOLLOW** me here on GitHub! 🫡
 ### ⚡ GitHub Activity & Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=wbRayyan&background=F4EBD9&border=1A1A1A&stroke=1A1A1A&ring=D95338&fire=D95338&currStreakNum=1A1A1A&sideNums=1A1A1A&currStreakLabel=D95338&sideLabels=D95338&dates=555555&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=wbRayyan&background=F4EBD9&border=1A1A1A&stroke=1A1A1A&ring=D95338&fire=D95338&currStreakNum=1A1A1A&sideNums=1A1A1A&currStreakLabel=D95338&sideLabels=D95338&dates=555555" alt="GitHub Streak" />
 </p>
 
 <p align="center">
