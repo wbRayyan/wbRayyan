@@ -48,12 +48,32 @@ You could also **FOLLOW** me here on GitHub! 🫡
 
 ---
 
-### ⚡ GitHub Activity & Streaks
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wbRayyan&background=F4EBD9&border=1A1A1A&stroke=1A1A1A&ring=D95338&fire=D95338&currStreakNum=1A1A1A&sideNums=1A1A1A&currStreakLabel=D95338&sideLabels=D95338&dates=555555" alt="GitHub Streak" />
-</p>
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=1e222e&border=2d3348&stroke=ff6b9d&ring=ff6b9d&fire=ff6b9d&currStreakLabel=00d2d3&sideNums=ff6b9d&sideLabels=ff6b9d&dates=c8d6e5&hide_border=false" alt="Streak Stats" width="600" />
+  
+  <br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wbRayyan&bg_color=F4EBD9&color=1A1A1A&line=D95338&point=1A1A1A&area=true&area_color=D9533822&hide_border=false&border_color=1A1A1A&v=1" alt="Contribution Graph" width="100%" />
-</p>
+  <!-- Stats and Top Languages Side by Side -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=ff6b9d&icon_color=00d2d3&text_color=c8d6e5&bg_color=1e222e&border_color=2d3348&hide_border=false" alt="GitHub Stats" width="48%" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&title_color=ff6b9d&text_color=c8d6e5&bg_color=1e222e&border_color=2d3348&hide_border=false" alt="Top Languages" width="48%" />
+  </p>
+
+  <br/>
+
+  <!-- GitHub Activity Graph Profile Card -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=1e222e&title_color=ff6b9d&line=a29bfe&point=ff6b9d&area=true&hide_border=false&border_color=2d3348" alt="Activity Graph" width="600" />
+
+  <br/><br/>
+
+  <!-- Animated Moving Flower Text (Left to Right) -->
+  <marquee direction="right" scrollamount="6">
+    <h2 style="color: #ff6b9d; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+      🌸 Thanks for visiting my profile 🌸
+    </h2>
+  </marquee>
+
+</div>
