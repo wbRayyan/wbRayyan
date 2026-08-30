@@ -50,26 +50,26 @@ You could also **FOLLOW** me here on GitHub! 🫡
 
 <div align="center">
 
-  <!-- 1. Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=wbRayyan&theme=tokyonight&background=1e222e&border=2d3348&stroke=ff6b9d&ring=ff6b9d&fire=ff6b9d&currStreakLabel=00d2d3&sideNums=ff6b9d&sideLabels=ff6b9d&dates=c8d6e5&hide_border=false" alt="Streak Stats" width="600" />
+  <!-- 1. Streak Stats Card (Warm Cream & Retro Red) -->
+  <img src="https://streak-stats.demolab.com?user=wbRayyan&background=f4ece1&border=1a1a1a&stroke=e0533c&ring=e0533c&fire=e0533c&currStreakLabel=e0533c&currStreakNum=1a1a1a&sideNums=1a1a1a&sideLabels=e0533c&dates=4a4a4a&hide_border=false" alt="Streak Stats" width="600" />
   
   <br/><br/>
 
   <!-- 2. Stats & Top Languages Side by Side (Dockerfile Hidden) -->
   <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=wbRayyan&show_icons=true&count_private=true&include_all_commits=true&bg_color=1e222e&title_color=ff6b9d&icon_color=00d2d3&text_color=c8d6e5&border_color=2d3348" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=wbRayyan&show_icons=true&count_private=true&include_all_commits=true&bg_color=f4ece1&title_color=e0533c&icon_color=0a7b83&text_color=1a1a1a&border_color=1a1a1a" alt="GitHub Stats" width="48%" />
     &nbsp;
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wbRayyan&layout=donut&hide=Dockerfile&bg_color=1e222e&title_color=ff6b9d&text_color=c8d6e5&border_color=2d3348" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wbRayyan&layout=donut&hide=Dockerfile&bg_color=f4ece1&title_color=e0533c&text_color=1a1a1a&border_color=1a1a1a" alt="Top Languages" width="48%" />
   </p>
 
   <br/>
 
-  <!-- 3. Real Working Wave Contribution Graph -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wbRayyan&theme=tokyonight" alt="Activity Graph" width="600" />
+  <!-- 3. Wave Contribution Graph (Light / Warm Paper Theme) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wbRayyan&theme=solarized_light" alt="Activity Graph" width="600" />
 
   <br/><br/>
 
-  <!-- 4. Still Typewriter Animated Banner -->
+  <!-- 4. Vintage Typewriter Animated Banner -->
   <img src="./banner2.svg" alt="Typewriter Thanks Banner" width="550" />
 
 </div>
