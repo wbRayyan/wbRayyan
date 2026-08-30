@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60">
+  <style>
+    .marquee {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      fill: #ff6b9d;
+    }
+  </style>
+  <g>
+    <text y="38" class="marquee">
+      🌸 Thanks for visiting my profile 🌸
+      <animate attributeName="x" from="-400" to="800" dur="8s" repeatCount="indefinite" />
+    </text>
+  </g>
+</svg>
