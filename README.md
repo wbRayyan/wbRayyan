@@ -55,7 +55,7 @@ You could also **FOLLOW** me here on GitHub! 🫡
   
   <br/><br/>
 
-  <!-- Stats and Top Languages -->
+  <!-- Stats and Top Languages Side by Side -->
   <p align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=wbRayyan&show_icons=true&count_private=true&include_all_commits=true&bg_color=1e222e&title_color=ff6b9d&icon_color=00d2d3&text_color=c8d6e5&border_color=2d3348" alt="GitHub Stats" width="48%" />
     &nbsp;
@@ -64,12 +64,12 @@ You could also **FOLLOW** me here on GitHub! 🫡
 
   <br/>
 
-  <!-- Activity Graph -->
-  <img src="https://ghchart.rshah.org/ff6b9d/wbRayyan" alt="Activity Graph" width="600" />
+  <!-- Exact Mountain Wave Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=wbRayyan&bg_color=1e222e&color=ff6b9d&line=a29bfe&point=ff6b9d&area=true&hide_border=false&border_color=2d3348" alt="Activity Graph" width="600" />
 
   <br/><br/>
 
-  <!-- Moving Animated SVG Banner -->
-  <img src="./banner2.svg" alt="Thanks for visiting" width="100%" />
+  <!-- Still Typewriter Animated Banner -->
+  <img src="./banner2.svg" alt="Typewriter Thanks Banner" width="500" />
 
 </div>
