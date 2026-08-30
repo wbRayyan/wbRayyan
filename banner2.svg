@@ -1,16 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="60" viewBox="0 0 600 60">
   <style>
-    .marquee {
-      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+    @keyframes typing {
+      0%, 10% { width: 0; }
+      70%, 90% { width: 440px; }
+      100% { width: 0; }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .wrapper {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      font-family: 'Courier New', Consolas, Monaco, monospace;
+    }
+    .typewriter {
+      color: #ff6b9d;
       font-size: 22px;
       font-weight: 700;
-      fill: #ff6b9d;
+      white-space: nowrap;
+      overflow: hidden;
+      display: inline-block;
+      animation: typing 6s steps(35, end) infinite;
+    }
+    .cursor {
+      display: inline-block;
+      width: 3px;
+      height: 24px;
+      background-color: #00d2d3;
+      margin-left: 4px;
+      animation: blink 0.8s infinite;
     }
   </style>
-  <g>
-    <text y="38" class="marquee">
-      🌸 Thanks for visiting my profile 🌸
-      <animate attributeName="x" from="-400" to="800" dur="8s" repeatCount="indefinite" />
-    </text>
-  </g>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="wrapper">
+      <span class="typewriter">🌸 Thanks for visiting my profile 🌸</span>
+      <span class="cursor"></span>
+    </div>
+  </foreignObject>
 </svg>
