@@ -55,7 +55,7 @@ You could also **FOLLOW** me here on GitHub! 🫡
   
   <br/><br/>
 
-  <!-- Stats and Top Languages (Dockerfile hidden) -->
+  <!-- Stats and Top Languages -->
   <p align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=wbRayyan&show_icons=true&count_private=true&include_all_commits=true&bg_color=1e222e&title_color=ff6b9d&icon_color=00d2d3&text_color=c8d6e5&border_color=2d3348" alt="GitHub Stats" width="48%" />
     &nbsp;
@@ -64,27 +64,12 @@ You could also **FOLLOW** me here on GitHub! 🫡
 
   <br/>
 
-  <!-- Working Activity Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=wbRayyan&theme=react-dark&bg_color=1e222e&title_color=ff6b9d&line=a29bfe&point=ff6b9d&area=true&hide_border=false&border_color=2d3348" alt="Activity Graph" width="600" />
+  <!-- Activity Graph -->
+  <img src="https://ghchart.rshah.org/ff6b9d/wbRayyan" alt="Activity Graph" width="600" />
 
   <br/><br/>
 
-  <!-- Animated Moving Flower Text via SVG (Left to Right) -->
-  <svg width="600" height="50" viewBox="0 0 600 50" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .marquee-text {
-        font-family: 'Segoe UI', Ubuntu, Sans-Serif;
-        font-size: 20px;
-        font-weight: 600;
-        fill: #ff6b9d;
-        animation: scrollText 10s linear infinite;
-      }
-      @keyframes scrollText {
-        0% { transform: translateX(-350px); }
-        100% { transform: translateX(600px); }
-      }
-    </style>
-    <text y="30" class="marquee-text">🌸 Thanks for visiting my profile 🌸</text>
-  </svg>
+  <!-- Moving Animated SVG Banner -->
+  <img src="./banner2.svg" alt="Thanks for visiting" width="100%" />
 
 </div>
