@@ -64,8 +64,8 @@ You could also **FOLLOW** me here on GitHub! 🫡
 
   <br/>
 
-  <!-- 3. Wave Contribution Graph (Warm Cream / Gruvbox Light) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wbRayyan&theme=gruvbox_light" alt="Activity Graph" width="600" />
+  <!-- 3. Exact Matching Warm Paper Wave Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wbRayyan&bg_color=f4ece1&color=e0533c&line=e0533c&point=0a7b83&area=true&hide_border=false&border_color=1a1a1a" alt="Activity Graph" width="600" />
 
   <br/><br/>
 
