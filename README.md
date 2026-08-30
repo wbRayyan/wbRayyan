@@ -65,7 +65,7 @@ You could also **FOLLOW** me here on GitHub! 🫡
   <br/>
 
   <!-- Exact Mountain Wave Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=wbRayyan&bg_color=1e222e&color=ff6b9d&line=a29bfe&point=ff6b9d&area=true&hide_border=false&border_color=2d3348" alt="Activity Graph" width="600" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wbRayyan&bg_color=1e222e&color=ff6b9d&line=ff6b9d&point=00d2d3&area=true&hide_border=false&border_color=2d3348" alt="Activity Graph" width="600" />
 
   <br/><br/>
 
