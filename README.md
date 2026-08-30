@@ -50,12 +50,12 @@ You could also **FOLLOW** me here on GitHub! 🫡
 
 <div align="center">
 
-  <!-- Streak Stats Card -->
+  <!-- 1. Streak Stats Card -->
   <img src="https://streak-stats.demolab.com?user=wbRayyan&theme=tokyonight&background=1e222e&border=2d3348&stroke=ff6b9d&ring=ff6b9d&fire=ff6b9d&currStreakLabel=00d2d3&sideNums=ff6b9d&sideLabels=ff6b9d&dates=c8d6e5&hide_border=false" alt="Streak Stats" width="600" />
   
   <br/><br/>
 
-  <!-- Stats and Top Languages Side by Side -->
+  <!-- 2. Stats & Top Languages Side by Side (Dockerfile Hidden) -->
   <p align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=wbRayyan&show_icons=true&count_private=true&include_all_commits=true&bg_color=1e222e&title_color=ff6b9d&icon_color=00d2d3&text_color=c8d6e5&border_color=2d3348" alt="GitHub Stats" width="48%" />
     &nbsp;
@@ -64,12 +64,12 @@ You could also **FOLLOW** me here on GitHub! 🫡
 
   <br/>
 
-  <!-- Exact Mountain Wave Activity Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=wbRayyan&theme=react-dark&bg_color=1e222e&color=ff6b9d&line=ff6b9d&point=00d2d3&area=true&hide_border=false&border_color=2d3348" alt="Activity Graph" width="600" />
+  <!-- 3. Real Working Wave Contribution Graph -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wbRayyan&theme=tokyonight" alt="Activity Graph" width="600" />
 
   <br/><br/>
 
-  <!-- Still Typewriter Animated Banner -->
-  <img src="./banner2.svg" alt="Typewriter Thanks Banner" width="500" />
+  <!-- 4. Still Typewriter Animated Banner -->
+  <img src="./banner2.svg" alt="Typewriter Thanks Banner" width="550" />
 
 </div>
