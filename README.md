@@ -64,8 +64,8 @@ You could also **FOLLOW** me here on GitHub! 🫡
 
   <br/>
 
-  <!-- 3. Working Wave Contribution Card (Never Crashes) -->
-  <div style="background-color: #f4ece1; border: 1px solid #1a1a1a; border-radius: 8px; padding: 6px; width: 600px; display: inline-block;">
+  <!-- 3. Working Wave Contribution Card -->
+  <div style="background-color: #f4ece1; border: 1px solid #1a1a1a; border-radius: 8px; padding: 6px; max-width: 600px; display: inline-block;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wbRayyan&theme=solarized_light" alt="Profile Details & Graph" width="100%" />
   </div>
 
