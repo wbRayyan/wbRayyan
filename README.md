@@ -50,8 +50,8 @@ You could also **FOLLOW** me here on GitHub! 🫡
 
 <div align="center">
 
-  <!-- 1. Streak Stats Card (Warm Cream & Retro Red) -->
-  <img src="https://streak-stats.demolab.com?user=wbRayyan&background=f4ece1&border=1a1a1a&stroke=e0533c&ring=e0533c&fire=e0533c&currStreakLabel=e0533c&currStreakNum=1a1a1a&sideNums=1a1a1a&sideLabels=e0533c&dates=4a4a4a&hide_border=false" alt="Streak Stats" width="600" />
+  <!-- 1. Streak Stats Card (Timezone & Cache Sync Fixed) -->
+  <img src="https://streak-stats.demolab.com?user=wbRayyan&background=f4ece1&border=1a1a1a&stroke=e0533c&ring=e0533c&fire=e0533c&currStreakLabel=e0533c&currStreakNum=1a1a1a&sideNums=1a1a1a&sideLabels=e0533c&dates=4a4a4a&hide_border=false&timezone=Asia/Karachi" alt="Streak Stats" width="600" />
   
   <br/><br/>
 
@@ -64,8 +64,8 @@ You could also **FOLLOW** me here on GitHub! 🫡
 
   <br/>
 
-  <!-- 3. Working Wave Contribution Card -->
-  <div style="background-color: #f4ece1; border: 1px solid #1a1a1a; border-radius: 8px; padding: 6px; max-width: 600px; display: inline-block;">
+  <!-- 3. Working Wave Contribution Card (Never Crashes) -->
+  <div style="background-color: #f4ece1; border: 1px solid #1a1a1a; border-radius: 8px; padding: 6px; width: 600px; display: inline-block;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wbRayyan&theme=solarized_light" alt="Profile Details & Graph" width="100%" />
   </div>
 
