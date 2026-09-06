@@ -1,7 +1,6 @@
 <p align="center">
   <img src="banner.svg?v=2" alt="Rayan Bhatti Banner" width="100%" />
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rayan-bhatti-b07a4b289/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/wb_rayyan/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
