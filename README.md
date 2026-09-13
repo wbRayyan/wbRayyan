@@ -6,10 +6,8 @@
   <a href="https://www.instagram.com/wb_rayyan/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:i.rayanbhatti@gmail.com"><img src="https://img.shields.io/badge/EMAIL-181818?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
 ---
 ---
-
 ### 👤 About Me
 
 - 🎓 **Education:** Software Engineering (Graduate) @ COMSATS University Islamabad
