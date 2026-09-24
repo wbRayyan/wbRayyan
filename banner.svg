@@ -38,7 +38,7 @@
 
   <!-- Subtitle Text -->
   <text x="443" y="238" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="600" fill="#333333" letter-spacing="0.5">
-    Modern C++ Systems · .NET Core &amp; Laravel Backend · React on the Web
+    Laravel Backend · Modern C++ Systems · React on the Web
   </text>
   
   <!-- Email / Link -->
